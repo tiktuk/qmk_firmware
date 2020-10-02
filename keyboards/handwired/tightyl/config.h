@@ -21,7 +21,7 @@
 /* key matrix size */
 /* Rows are doubled up */
 #define MATRIX_ROWS 8
-#define MATRIX_COLS 8
+#define MATRIX_COLS 6
 
 // wiring
 #define MATRIX_ROW_PINS { C6, D7, E6, B4 }
