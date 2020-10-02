@@ -24,8 +24,12 @@
 #define MATRIX_COLS 6
 
 // wiring
+// pins of the rows, from top to bottom
 #define MATRIX_ROW_PINS { C6, D7, E6, B4 }
+
+// pins of the columns, from left to right
 #define MATRIX_COL_PINS { F5, F6, F7, B1, B3, B2 }
+
 #define UNUSED_PINS
 
 /* COL2ROW, ROW2COL*/
